@@ -29,7 +29,7 @@ function Projectlayout({data}) {
                 <ParaText top="1.5rem" bottom="2rem">
                     {data.projet_description}
                 </ParaText>
-                <Button>
+                <Button href={data.project_url}>
                     Visite website
                 </Button>
             </motion.div>
