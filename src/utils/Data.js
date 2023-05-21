@@ -1,5 +1,5 @@
 import {FaReact, FaLaravel, FaVuejs, FaPhp} from "react-icons/fa"
-import Project1 from "../assets/Project1.png";
+import Project1 from "../assets/projet.png";
 import Project2 from "../assets/Project2.png";
 
 export const Skyls = [{
@@ -16,7 +16,7 @@ export const Skyls = [{
 export const ProjetDetail = [
     {
         id: 0,
-        projet_name: "Restaurant",
+        projet_name: "Immobillier",
         projet_description: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
         projet_img: Project1,
         tect_stack: ['Reactjs', 'TailwindCss'],
