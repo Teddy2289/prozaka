@@ -1,9 +1,9 @@
 import React from 'react'
-import {PaddingContainner, Heading, BlueText, FlexContainer} from "../../styled/Global.styled";
+import {PaddingContainner, Heading, BlueText} from "../../styled/Global.styled";
 import {ProjetDetail} from "../../utils/Data";
 import Projectlayout from "../layouts/Projectlayout";
 import {motion} from "framer-motion";
-import {fadeInRightVariant, fadeInTopVariant} from "../../utils/Variant";
+import {fadeInTopVariant} from "../../utils/Variant";
 
 function Project() {
     return (

@@ -2,7 +2,6 @@ import React from "react";
 import {PaddingContainner, FlexContainer, Heading, IconContainer, ParaText, Button} from "../../styled/Global.styled";
 import {FaGithub} from "react-icons/fa";
 import {TechStackCard, ProjetImgContainer, ProjetImg} from "../../styled/MyProject.styled/MyProject.styled";
-import Project1 from "../../assets/Project1.png";
 import {motion} from "framer-motion";
 import {fadeInLeftVariant, fadeInRightVariant} from "../../utils/Variant";
 
